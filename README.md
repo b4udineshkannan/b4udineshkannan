@@ -1,4 +1,4 @@
-## Hai there 👋
+## Hai there 👋 its me Dinesh Kannan
 
 - 👋 Hi, I’m @b4udineshkannan
 - 👀 I’m interested in ...
