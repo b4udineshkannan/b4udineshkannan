@@ -1,5 +1,7 @@
 ## Hai there 👋 its me Dinesh Kannan
 
+Education - Diploam In Electronic And Communicaion Engineering
+
 - 👋 Hi, I’m @b4udineshkannan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
