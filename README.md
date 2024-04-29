@@ -3,6 +3,7 @@
 🌍 I am a Front-End React Developer based in Tamil Nadu, India.
 
 Education - Diploam In Electronic And Communicaion Engineering
+
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"></a>
   &nbsp;
