@@ -27,11 +27,11 @@ Education - Diploam In Electronic And Communicaion Engineering
 
 ### 🧍🏻Personal Portfolio
 
- Portfolio Link: [Dinesh Kannan Portfolio]([[https://yuvaraj-dev-portfolio.vercel.app](https://dinesh-web.vercel.app/)]
+ Portfolio Link: [Dinesh Kannan Portfolio]([(https://dinesh-web.vercel.app/)]
 
  ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jyuvaraj](https://www.linkedin.com/in/r-dinesh-kannan-9a262b140/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([](https://www.linkedin.com/in/r-dinesh-kannan-9a262b140/))
 <!---
 b4udineshkannan/b4udineshkannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
