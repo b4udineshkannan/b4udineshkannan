@@ -1,5 +1,6 @@
 ## Hai there 👋 its me Dinesh Kannan
 
+🌍 I am a Front-End React Developer based in Tamil Nadu, India.
 
 Education - Diploam In Electronic And Communicaion Engineering
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -35,4 +36,4 @@ Education - Diploam In Electronic And Communicaion Engineering
 b4udineshkannan/b4udineshkannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>test</h1>
+
