@@ -1,7 +1,7 @@
 ## Hai there 👋 its me Dinesh Kannan
 
 <style>
-  .courseicon{
+  .courseicon a{
     display:flex;
     gap:20px
   }
