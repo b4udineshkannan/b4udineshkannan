@@ -15,7 +15,7 @@ Education - Diploam In Electronic And Communicaion Engineering
     &nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redux" alt="Redux"></a>
     &nbsp;
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+   
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"></a>
