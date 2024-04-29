@@ -1,7 +1,7 @@
 ## Hai there 👋 its me Dinesh Kannan
 
 Education - Diploam In Electronic And Communicaion Engineering
-<div style="display:flex; gap:5px;"><img width="30px" height="30px" src="chtml.svg"/><img width="30px" height="30px" src="ccss.svg"/>  <img width="30px" height="30px" src="cjavascript.svg"/><img width="30px" height="30px" src="cnext.svg"/> </div>
+<div style="display:flex; gap:10px;"><img width="30px" height="30px" src="chtml.svg"/><img width="30px" height="30px" src="ccss.svg"/>  <img width="30px" height="30px" src="cjavascript.svg"/><img width="30px" height="30px" src="cnext.svg"/> </div>
 
 - 👋 Hi, I’m @b4udineshkannan
 - 👀 I’m interested in ...
