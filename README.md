@@ -27,7 +27,7 @@ Education - Diploam In Electronic And Communicaion Engineering
 
 ### 🧍🏻Personal Portfolio
 
-  Portfolio Link: [Yuvaraj's Portfolio](https://dinesh-web.vercel.app/)
+  Portfolio Link: [Dinesh Kannan Portfolio](https://dinesh-web.vercel.app/)
 
 
  ### Socials
