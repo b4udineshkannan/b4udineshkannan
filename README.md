@@ -25,14 +25,13 @@ Education - Diploam In Electronic And Communicaion Engineering
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
 </div>
 
-- 👋 Hi, I’m @b4udineshkannan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧍🏻Personal Portfolio
 
+ Portfolio Link: [Dinesh Kannan Portfolio]([https://yuvaraj-dev-portfolio.vercel.app](https://dinesh-web.vercel.app/)
+
+ ### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jyuvaraj](https://www.linkedin.com/in/r-dinesh-kannan-9a262b140/))
 <!---
 b4udineshkannan/b4udineshkannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
