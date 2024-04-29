@@ -3,7 +3,7 @@
 
 Education - Diploam In Electronic And Communicaion Engineering
 <div class="courseicon">
-  <img width="30px" height="30px" padding="10px" src="chtml.svg"/>   <img width="30px" height="30px" src="ccss.svg"/>  
+  <img width="30px" height="30px" padding="10px" src="chtml.svg"/> <img width="30px" height="30px" src="ccss.svg"/>  
  <img width="30px" height="30px" src="cjavascript.svg"/>  <img width="30px" height="30px" src="cnext.svg"/> </div>
 
 - 👋 Hi, I’m @b4udineshkannan
