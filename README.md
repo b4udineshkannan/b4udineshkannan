@@ -1,11 +1,6 @@
 ## Hai there 👋 its me Dinesh Kannan
 
-<style>
-  .courseicon {
-    display:flex;
-    gap:20px;
-  }
-</style>
+
 Education - Diploam In Electronic And Communicaion Engineering
 <div class="courseicon">
   <img width="30px" height="30px" src="chtml.svg"/><img width="30px" height="30px" src="ccss.svg"/>  <img width="30px" height="30px" src="cjavascript.svg"/><img width="30px" height="30px" src="cnext.svg"/> </div>
