@@ -1,9 +1,9 @@
 ## Hai there 👋 its me Dinesh Kannan
 
 <style>
-  .courseicon a{
+  .courseicon {
     display:flex;
-    gap:20px
+    gap:20px;
   }
 </style>
 Education - Diploam In Electronic And Communicaion Engineering
