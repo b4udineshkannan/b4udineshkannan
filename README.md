@@ -4,7 +4,7 @@
 Education - Diploam In Electronic And Communicaion Engineering
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"></a>
-    &nbsp;
+ 
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
     &nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next" alt="React & Next.js"></a>
