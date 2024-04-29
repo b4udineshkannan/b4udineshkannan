@@ -1,7 +1,7 @@
 ## Hai there 👋 its me Dinesh Kannan
 
 Education - Diploam In Electronic And Communicaion Engineering
-<img src="ccss.svg"/>
+<img width="30px" height="30px" src="ccss.svg"/>
 
 - 👋 Hi, I’m @b4udineshkannan
 - 👀 I’m interested in ...
